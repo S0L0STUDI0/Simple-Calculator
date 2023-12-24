@@ -6,7 +6,6 @@
 #  |_||_| |_____/ \___/|_|\___/_____/ \__|\__,_|\__,_|_|\___/     
                                    
 print('===================================================================================')
-print('This calculator is fully developed by Solo studio.')
 print('! Notice This calculator does NOT support decimals and fractions in the equation!')
 print('===================================================================================')
 
